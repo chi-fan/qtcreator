@@ -41,6 +41,8 @@
 #include <utils/macroexpander.h>
 #include <utils/qtcassert.h>
 
+#include <QSet>
+#include <qset.h>
 #include <QDir>
 #include <QFileInfo>
 

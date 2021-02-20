@@ -45,6 +45,7 @@
 #include <QSqlDriver>
 #include <QSqlError>
 #include <QSqlQuery>
+#include <QSet>
 
 static const char kUserDocumentationKey[] = "Help/UserDocumentation";
 

@@ -32,6 +32,7 @@
 
 #include <QList>
 #include <QSet>
+#include <qlist.h>
 
 namespace ProjectExplorer {
 

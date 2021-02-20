@@ -29,6 +29,8 @@
 #include <QPainter>
 #include <QApplication>
 
+#include <qfontmetrics.h>
+
 #include <QModelIndex>
 #include <QDebug>
 

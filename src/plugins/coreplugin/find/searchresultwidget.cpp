@@ -38,7 +38,8 @@
 #include <utils/qtcassert.h>
 #include <utils/theme/theme.h>
 #include <utils/fancylineedit.h>
-
+#include <qfontmetrics.h>
+#include <QFont>
 #include <QDir>
 #include <QFrame>
 #include <QLabel>

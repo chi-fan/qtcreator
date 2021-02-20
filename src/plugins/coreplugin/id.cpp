@@ -33,7 +33,7 @@
 #include <QDebug>
 #include <QHash>
 #include <QVariant>
-
+#include <qset.h>
 #include <string.h>
 
 namespace Core {

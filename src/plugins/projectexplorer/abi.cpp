@@ -825,7 +825,7 @@ Abi::OSFlavor Abi::flavorForMsvcVersion(int version)
 
 Abi Abi::hostAbi()
 {
-    Architecture arch = QTC_CPU; // define set by qmake
+    Architecture arch = X86Architecture; // define set by qmake
     OS os = UnknownOS;
     OSFlavor subos = UnknownFlavor;
     BinaryFormat format = UnknownFormat;

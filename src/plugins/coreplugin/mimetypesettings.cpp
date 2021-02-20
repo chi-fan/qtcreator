@@ -48,6 +48,7 @@
 #include <QSet>
 #include <QStringList>
 #include <QSortFilterProxyModel>
+#include <qvariant.h>
 
 static const char kModifiedMimeTypesFile[] = "/mimetypes/modifiedmimetypes.xml";
 
